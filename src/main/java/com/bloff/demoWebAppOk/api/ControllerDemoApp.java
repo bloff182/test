@@ -14,10 +14,11 @@ public class ControllerDemoApp {
 	}
 
 //	new comment
-
-
 	public String introduce() {
 		return "Hello my name is checker: How to create optimized and effectiv git comments";
 	}
 
+	public void test(){
+		System.out.println("test");
+	}
 }
