@@ -14,5 +14,10 @@ public class ControllerDemoApp {
 	}
 	
 //	new comment
-//	new line
+
+
+	public String introduce() {
+		return "Hello my name is checker: How to create optimized and effectiv git comments";
+	}
+
 }
