@@ -1,5 +1,10 @@
-{
+[{
 	"firstName":"Johnny",
 	"lastName":"Does",
 	"age":"18"
-}
+},
+{
+	"firstName":"Mike",
+	"lastName":"Tron",
+	"age":"22"
+}]
