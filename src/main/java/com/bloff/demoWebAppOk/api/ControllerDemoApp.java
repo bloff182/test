@@ -26,5 +26,6 @@ public class ControllerDemoApp {
 		System.out.println("test2-new text234");
 		System.out.println("test2-new line");
 		System.out.println("test2-new line no 2");
+		System.out.println("test2-new line no 3");
 	}
 }
